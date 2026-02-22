@@ -1,3 +1,5 @@
+<img src="logo.png" alt="Deevly Labs Logo" width="140" />
+
 # Deevly Labs
 
 Execution & Governance Infrastructure for AI-Native Product Development.
